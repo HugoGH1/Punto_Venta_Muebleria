@@ -1,0 +1,21 @@
+001-Estantería-1499
+002-Comedor (8 sillas)-16000
+003-Alacena (Gris)-2000
+004-Alacena (Café)-1800
+005-Vanity (Blanco)-10000
+006-Estantería (Negra)-1900
+007-Colchón Individual-1200
+008-Colchón Matrimonial-3500
+009-Colchón KingSize-12000
+010-Base matrimonial-1500
+011-Base individual-900
+012-Mesa de noche-700
+015-Librero (Café)-6700
+014-Base de TV-3500
+013-Conjunto de repisas (Café)-2300
+016-Base KingSize-4800
+017-Banco de madera (Negro)-750
+018-Librero (Negro)-9800
+019-Armario Grande-6700
+020-Cava de vino (12 botellas)-8799
+238-Sofácama-6500
